@@ -1,8 +1,8 @@
-# Argon Pro Theme for Laravel Framework 9.x and Up
+# Argon Pro Theme for Laravel Framework 11.x and Up
 
-Argon Pro Theme for Laravel Framework 9.x and Up
+Argon Pro Theme for Laravel Framework 11.x and Up
 
-*Current version*: Argon Pro v1.2.0. More info at http://argon-dashboard-pro-laravel-bs4.creative-tim.com/
+*Current version*: Argon Pro v1.3.0. More info at http://argon-dashboard-pro-laravel-bs4.creative-tim.com/
 
 [<img src="https://s3.amazonaws.com/creativetim_bucket/products/639/original/opt_adp_laravel_thumbnail.jpg?1651244212" width="100%" />](https://www.creative-tim.com/live/argon-dashboard-pro-laravel-bs4) 
 
