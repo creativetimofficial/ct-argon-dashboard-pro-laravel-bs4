@@ -48,3 +48,7 @@ Update to Laravel 8.x
 ## Version 1.2.4 - 2022-03-30
 
 Update to Laravel 9.x
+
+## Version 1.3.0 - 2024-05-27
+
+Update to Laravel 11.x
